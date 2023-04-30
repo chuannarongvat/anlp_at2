@@ -1,0 +1,2 @@
+1. Use main.py to extract news' content and export as testNews.txt
+2. with open('testNews.txt', 'w'), use word tokenize then fit the processed text to the trained model for a prediction. 
